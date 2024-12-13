@@ -1,0 +1,22 @@
+Field Label,Choices
+contact_PI,Helena Solo-Gabriele
+source_organization,"University of Miami, Coral Gables, FL"
+project_title,Development and Proof-of-Concept Implementation of the South Florida Miami RADx-rad SARS-CoV-2 Wastewater-Based Surveillance Infrastructure
+NIH_project_ID,1U01DA053941
+project_research_area,wastewater
+creatorORaccountable_for_data_files,Dusica Vidovic
+completed_registration_with_dbGaP,1
+dbGaP_study_ID - not_NIH_project_ID,phs2525.v1
+description_of_project,"Through this collaborative study between the University of Miami in Florida and Weill Cornell Medicine in New York, we will generate, standardize, integrate, compare and make available to the RADx-rad Data Coordination Center (DCC), SARS-CoV-2 human surveillance and wastewater quantification data with various sampling, processing, detection, and analysis approaches. We hypothesize that sensitivity (enhanced detection and recovery) can be improved by optimizing sampling and concentration strategies, and that specificity (viral strain identification for epidemiologic tracking) can be improved by optimizing wastewater detection methods. The results from this proposal will develop and deploy experimental and informatics infrastructure and operations, provide a proof-of-concept implementation to use wastewater for infectious disease surveillance, and advance work towards a model capable of predicting local and community level spread of COVID-19 and emerging pathogens based upon measurements of SARS-CoV-2 and other viruses from wastewater."
+keywords,"wastewater, SARS-CoV-2, water quality, PMMoV, fecal coliform, B2M, qPCR, V2G, data standardization, predictive modeling"
+vocabularyORthesaurus_used - if_applicable,RADx-rad_Data_Elements_Wastewater_V006
+publication_url - if_applicable,We plan to publish our Data Standards work in the near future.  (A summary of our overall project initial work is available at: https://doi.org/10.1016/j.scitotenv.2021.149177)
+study_include_prospective_or_retrospective_human_samples - effective_Feb_2021,1
+collected_NIH_Minimum_CDEs_for_all_datasets,0
+NIH_PO_approved_waiver_for_Minimum_CDE,1
+data_dictionary_for_all_datafiles,1
+name_of_data_dictionary_file,rad_015_941_01_DICT_SF-RAD_v003.csv
+type_of_sample_used - blood_breath_wastewater_ etc,wastewater
+method_of_data_analysis - software_statistical_approach,NA
+number_of_datafiles_in_this_package,1
+datafile_names - add_additional_rows_as_needed,rad_015_941_01_DATA_qPCR_SARSCoV2-Quantification-Method_v001.csv
